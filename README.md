@@ -10,7 +10,7 @@ react-native info
 
 #### issue1: react-native not found
 환경변수설정 export PATH="blahblah/blahblah/bin:$PATH"
-package.json에 yarn path로 script 추가 해두었음
+ex) export PATH="/Users/gyeongsooi/.npm-global/bin:$PATH"
 
 #### issue2: brew를 사용하여 jdk 인스톨 실패
 android studio 설치 시 포함
